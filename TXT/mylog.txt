@@ -25,3 +25,5 @@ ZCZC W01 33 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 1 L41 TXT/mylog.txt related
 ZCZC W01 108 ZOOM meetings related
 ZCZC W01 3 L41 TXT/mylog.txt related
+ZCZC W01 34 L11 Assignment #01
+ZCZC W01 1 L41 TXT/mylog.txt related
