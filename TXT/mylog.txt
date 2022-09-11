@@ -29,3 +29,5 @@ ZCZC W01 34 L11 Assignment #01
 ZCZC W01 1 L41 TXT/mylog.txt related
 ZCZC W01 90 L02 ZOOM meetings related
 ZCZC W01 1 L41 TXT/mylog.txt related
+ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 1 L41 TXT/mylog.txt related
