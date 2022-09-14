@@ -35,3 +35,5 @@ ZCZC W01 210 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W01 2 L41 TXT/mylog.txt related
 ZCZC W02 100 L02 ZOOM meetings related
 ZCZC W02 2 L41 TXT/mylog.txt related
+ZCZC W02 10 L03 Github and git related, including commit, push, pull
+ZCZC W02 2 L41 TXT/mylog.txt related
