@@ -42,3 +42,5 @@ ZCZC W02 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 2 L41 TXT/mylog.txt related
 ZCZC W02 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 1 L41 TXT/mylog.txt related
+ZCZC W02 41 L12 Assignment #02
+ZCZC W02 1 L41 TXT/mylog.txt related
