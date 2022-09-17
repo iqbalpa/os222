@@ -9,3 +9,15 @@ permalink: /LINKS/
 I recommend this video for you guys who are just going to learn about RegEx. He used [DebuggEx](www.debuggex.com) to explain the regex itself. This video is about 15 minutes only
 2. [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4)<br>
 This video is really helpful for me (not only for this course), after watched this video I know how to exit Vim if I accidentally open it :). Beside that, using Vim is cool just like a real programmer lol, though quite intimidating
+
+## Week 01
+1. [What is a Virtual Machine (VM)? In 3 minutes - Virtual Machine Tutorial for Beginners](https://youtu.be/ylVCjl4SwVo)
+This one will give you a brief explanation of what is virtual machine. It is a good start to get know virtual machine in simple terms.
+
+## Week 02
+1. [The Beginner's Guide to Digital Privacy](https://youtu.be/u8_9AQYLSbo)<br>
+I like this one. This guy will explain you a glimpse of cybersecurity and also will give some tips to enhance your security by using some apps. Like using brave browser and duckduckgo instead of chrome and google.
+2. [Cyber Security in 7 Minutes | What is Cyber Security: How It Works?](https://youtu.be/inWWhr5tnEA)
+Cyber security invlolves technique that help in securing various digital components, such as networks, data, and computer system from unauthorized digital access. This video is good for someone who doesn't have any background knowledge in cyber security and hacking stuff. They explain some types of cyber attacks briefly.
+3. [What is Linux, Unix, GNU and an Operating System? | Linux for All Ep01](https://youtu.be/-ArHFTZampy)
+This video will take you through a definition of Linux, Unix, and GNU. After watch this video you will most likely unsderstand the difference of Linux, Unix, and GNU
