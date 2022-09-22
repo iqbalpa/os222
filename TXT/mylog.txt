@@ -57,3 +57,6 @@ ZCZC W02 L43 TXT/myrank.txt related, including peer review
 ZCZC W02 1 L41 TXT/mylog.txt related
 ZCZC W02 60 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 1 L41 TXT/mylog.txt related
+ZCZC W03 120 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 2 L40 TXT/ related
+ZCZC W03 2 L41 TXT/mylog.txt
