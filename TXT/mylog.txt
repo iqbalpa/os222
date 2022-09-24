@@ -59,8 +59,10 @@ ZCZC W02 60 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 1 L41 TXT/mylog.txt related
 ZCZC W03 120 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 2 L40 TXT/ related
-ZCZC W03 2 L41 TXT/mylog.txt
+ZCZC W03 2 L41 TXT/mylog.txt related
 ZCZC W03 20 L03 GitHub and git related, including commit, push, pull
-ZCZC W03 1 L41 TXT/mylog.txt
+ZCZC W03 1 L41 TXT/mylog.txt related
 ZCZC W03 40 L13 Assignment #03
-ZCZC W03 1 L41 TXT/mylog.txt
+ZCZC W03 1 L41 TXT/mylog.txt related
+ZCZC W03 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 1 L41 TXT/mylog.txt related
