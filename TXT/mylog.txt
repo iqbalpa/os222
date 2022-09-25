@@ -68,3 +68,8 @@ ZCZC W03 60 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 1 L41 TXT/mylog.txt related
 ZCZC W03 20 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 3 L41 TXT/mylog.txt related
+ZCZC W03 75 L01 SCELE/Discord related
+ZCZC W03 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 5 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 4 L41 TXT/mylog.txt related.
