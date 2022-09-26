@@ -73,3 +73,6 @@ ZCZC W03 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, 
 ZCZC W03 5 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 4 L41 TXT/mylog.txt related.
+ZCZC W03 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 5 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 2 L41 TXT/mylog.txt related 
