@@ -2,6 +2,9 @@
 permalink: /LINKS/
 ---
 
+[HOME](index.md) | [LOG](TXT/mylog.txt) | [LINKS](.) |  [GitHub Repository](https://github.com/iqbalpa/os222/)
+
+
 # LINKS
 
 ## Week 00
@@ -23,8 +26,9 @@ Cyber security invlolves technique that help in securing various digital compone
 This video will take you through a definition of Linux, Unix, and GNU. After watch this video you will most likely unsderstand the difference of Linux, Unix, and GNU
 
 ## Week 03
-1.[FUSE - The Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
-This website will give you a brief explantion about basic FUSE.
-2.[What is fuse Filesystem](https://youtu.be/JE2_hzzZrCM)<br>
+1. [FUSE - The Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+This website will give you a brief explantion about basic FUSE. Though I still havent understand it yet :)
+2. [What is fuse Filesystem](https://youtu.be/JE2_hzzZrCM)<br>
 This video is good start for beginner to understand what is FUSE in linux. 
 
+## Week 04
