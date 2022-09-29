@@ -1,4 +1,4 @@
-[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [GitHub](https://github.com/iqbalpa/os222)
+[HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [TARBALL](https://os.vlsm.org/Log/iqbalpa.tar.bz2.txt) | [GitHub Repository](https://github.com/iqbalpa/os222)
 
 # Hai :D
 ## I am Iqbal Pahlevi Amin
