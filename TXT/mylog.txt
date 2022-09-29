@@ -88,3 +88,6 @@ ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04 1 L41 TXT/mylog.txt related
 ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04 1 L41 TXT/mylog.txt
+ZCZC W04 85 L00 General, etc.
+ZCZC W04 40 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04 2 L41 TXT/mylog.txt related
