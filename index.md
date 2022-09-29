@@ -4,3 +4,7 @@
 ## I am Iqbal Pahlevi Amin
 
 This is my static website for System Operation (OS222) course
+
+<hr>
+© 2022 --- iqbalpa
+<hr>

@@ -37,3 +37,7 @@ I like this video, the lecture is explain about what is pointer much way easier 
 2. [Declaring & Initializing Pointers in C](https://www.youtube.com/watch?v=b3G9RjG4l2s&ab_channel=NesoAcademy)<br>
 After watch the first video about the introduction of C pointers, I suggest you all to watch this video as well. This video simply explain how to declare and initialize a pointers.
 
+
+<hr>
+© 2022 --- iqbalpa
+<hr>
