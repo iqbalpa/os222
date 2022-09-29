@@ -32,3 +32,8 @@ This website will give you a brief explantion about basic FUSE. Though I still h
 This video is good start for beginner to understand what is FUSE in linux. 
 
 ## Week 04
+1. [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA&ab_channel=NesoAcademy)<br>
+I like this video, the lecture is explain about what is pointer much way easier using an illustration. It is easy to understand that pointers is a special variable that store an address of another value's of a variable.
+2. [Declaring & Initializing Pointers in C](https://www.youtube.com/watch?v=b3G9RjG4l2s&ab_channel=NesoAcademy)<br>
+After watch the first video about the introduction of C pointers, I suggest you all to watch this video as well. This video simply explain how to declare and initialize a pointers.
+
