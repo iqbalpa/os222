@@ -87,7 +87,12 @@ ZCZC W04 4 L41 TXT/mylog.txt related
 ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04 1 L41 TXT/mylog.txt related
 ZCZC W04 10 L04 GitHub Pages related
-ZCZC W04 1 L41 TXT/mylog.txt
+ZCZC W04 1 L41 TXT/mylog.txt related
 ZCZC W04 85 L00 General, etc.
 ZCZC W04 40 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W04 2 L41 TXT/mylog.txt related
+ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 100 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 25 L14 Assignment #04
+ZCZC W04 5 L41 TXT/mylog.txt related
