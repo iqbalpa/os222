@@ -5,7 +5,7 @@ permalink: /LINKS/
 [HOME](index.md) | [LOG](TXT/mylog.txt) | [LINKS](.) | [TARBALL](https://os.vlsm.org/Log/iqbalpa.tar.bz2.txt) | [GitHub Repository](https://github.com/iqbalpa/os222/)
 
 
-# LINKS
+# LINKS 💻
 
 ## Week 00
 1. [Regular Expressions - Enough to be Dangerous](https://youtu.be/bgBWp9EIlMM)<br>
@@ -38,6 +38,13 @@ I like this video, the lecture is explain about what is pointer much way easier 
 After watch the first video about the introduction of C pointers, I suggest you all to watch this video as well. This video simply explain how to declare and initialize a pointers.
 3. [Difference between Static & Dynamic Library | Linux Programming #3](https://youtu.be/Re5Z607jA0A)<br>
 The lecture will give you a brief explanation the difference between static and dinamic library.
+
+## week 05
+1. [Virtual Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/9_VirtualMemory.html)<br>
+This site explain about virtual memory from basic and maybe suit for beginners (though i feel i still couldn't grasp what is it about :))
+2. [What is Virtual Memory? What Does it Do?](https://youtu.be/qeOBEOBJREs)<br>
+This less than 2 minutes video will give you a brief explanation the background of why does virtual memory exist. One of adavantages os virtual memory is our system can load larger programs or multiple programs running at the same time. Last but not least, i think if you are too lazy to read the link above this link, you can watch this instead.
+
 
 
 <hr>
