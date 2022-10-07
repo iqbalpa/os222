@@ -96,3 +96,10 @@ ZCZC W04 30 L01 SCELE/Discord related
 ZCZC W04 100 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 25 L14 Assignment #04
 ZCZC W04 5 L41 TXT/mylog.txt related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 110 L00 General, etc
+ZCZC W05 30 L01 SCELE/Discord related
+ZCZC W05 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 20 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W05 30 C-language including Make.
+ZCZC W05 8 L41 TXT/mylog.txt related
