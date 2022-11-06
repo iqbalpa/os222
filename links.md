@@ -45,6 +45,14 @@ This site explain about virtual memory from basic and maybe suit for beginners (
 2. [What is Virtual Memory? What Does it Do?](https://youtu.be/qeOBEOBJREs)<br>
 This less than 2 minutes video will give you a brief explanation the background of why does virtual memory exist. One of adavantages os virtual memory is our system can load larger programs or multiple programs running at the same time. Last but not least, i think if you are too lazy to read the link above this link, you can watch this instead.
 
+## Week 06 👨‍💻
+1. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
+This article explains about concurrency and multi-threading programming briefly. It is a good start if you still don't understand what is multithreading.
+2. [Fork() in C - GeeksforGeeks](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This site will give you a brief explanation what actually is fork() and how it works in the C languages programming.
+3. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br>
+This video explains the meaning of thread in OS. It will explain about single threaded and also multi threaded process. And the benefit of multi threaded process comparing to the single threaded
+
 
 
 <hr>
