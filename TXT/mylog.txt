@@ -125,3 +125,16 @@ ZCZC W06 20 L40 TXT/ related in general
 ZCZC W06 30 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W06 60 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 3 L41 TXT/mylog.txt related
+ZCZC W07 120 L17 Assignment #07
+ZCZC W07 10 L05 Quiz related including studying
+ZCZC W07 60 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W07 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 30 L27 SSH, key-gen, tunneling, putty, wincsp
+ZCZC W07 60 L01 SCELE/Discord related
+ZCZC W07 40 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 30 L43 TXT/myrank.txt related, including peer review
+ZCZC W07 10 L41 TXT/mylog.txt related 
+ZCZC W07 30 L04 GitHub Pages related
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 100 L00 General, etc
+ZCZC W07 5 L41 TXT/mylog.txt related

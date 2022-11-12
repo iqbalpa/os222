@@ -53,7 +53,14 @@ This site will give you a brief explanation what actually is fork() and how it w
 3. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br>
 This video explains the meaning of thread in OS. It will explain about single threaded and also multi threaded process. And the benefit of multi threaded process comparing to the single threaded
 
-## Week 07
+## Week 07🌐
+1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+This site by Geeksforgeeks will give you a brief explanation about deadlock in operating system, using trains analogy. After read this site, I understand the idea of deadlock. Hopefully, after read this you'll understand as well
+2. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Just like the previous one about deadlock, geeksforgeeks also will give you a good explanation about synchronization. Basically, synchronization process will arises a problem because the resources are shared in cooperative processes.
+3. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+This site is way shorter than the number 1 and 2 above, you need under 5 minutes only to read this. But the explanation in this site of Synchronization and Deadlock is pretty much simple comparing to the previous two.
+
 
 <hr>
 © 2022 --- iqbalpa
