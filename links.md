@@ -61,6 +61,15 @@ Just like the previous one about deadlock, geeksforgeeks also will give you a go
 3. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
 This site is way shorter than the number 1 and 2 above, you need under 5 minutes only to read this. But the explanation in this site of Synchronization and Deadlock is pretty much simple comparing to the previous two.
 
+## Week 08💻
+1. [What is Linux From Scratch?](https://www.linuxfromscratch.org/lfs/)<br>
+This page site will explain why we need to build linux from scratch. After read this page, I a bit unsterstand why we need to do that.
+2. [INSTALLING LINUX FROM SCRATCH](https://youtu.be/S7N9D4IqHA0)<br>
+This is an amazing video. This video will definitely give you an idea of what will you face during the installation od linux from scratch.
+3. [Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)<br>
+Linux From Scratch is a way to install a working Linux system by building all components of it manually. This is, naturally, a longer process than installing a pre-compiled Linux distribution. According to the Linux From Scratch site, the advantages to this method are a compact, flexible and secure system and a greater understanding of the internal workings of the Linux-based operating systems.
+
+
 
 <hr>
 © 2022 --- iqbalpa

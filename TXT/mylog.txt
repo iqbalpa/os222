@@ -142,4 +142,6 @@ ZCZC W07 60 L03 GitHub and git related, including commit, push, pull
 ZCZC W07 3 L41 TXT/mylog.txt related
 ZCZC W07 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W07 3 L41 TXT/mylog.txt
+ZCZC W08 450 L18 Assignment #08
+ZCZC W08 15 L40 TXT/ related
 
