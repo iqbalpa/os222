@@ -144,4 +144,10 @@ ZCZC W07 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W07 3 L41 TXT/mylog.txt
 ZCZC W08 450 L18 Assignment #08
 ZCZC W08 15 L40 TXT/ related
-
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 100 L00 General, etc
+ZCZC W08 300 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W08 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 300 L01 SCELE/Discord related
+ZCZC W08 30 L18 Assignment #08
+ZCZC W08 5 L41 TXT/mylog.txt related
