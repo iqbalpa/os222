@@ -69,6 +69,13 @@ This is an amazing video. This video will definitely give you an idea of what wi
 3. [Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)<br>
 Linux From Scratch is a way to install a working Linux system by building all components of it manually. This is, naturally, a longer process than installing a pre-compiled Linux distribution. According to the Linux From Scratch site, the advantages to this method are a compact, flexible and secure system and a greater understanding of the internal workings of the Linux-based operating systems.
 
+## Week 09💽
+1. [What is firmware?](https://www.techtarget.com/whatis/definition/firmware)<br>
+Firmware is programming that's written to a hardware device's non-volatile memory. Non-volatile memory is a form of static random access memory where the content is saved when a hardware device is turned off or loses its external power source.
+2. [What is a bootloader and how does it work?](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)<br>
+This is a good short explanation of bootloader. Bootloaders ensure that all relevant operating system data is loaded into the main memory when a device is started.
+3. [System and Service Manager](https://systemd.io/)<br>
+Systemd is a suite of basic building blocks for a Linux System. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
 
 
 <hr>
